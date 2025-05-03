@@ -1,0 +1,11 @@
+MiniOS/
+├── bootloader/
+│   └── boot.asm          # 512-byte bootloader
+├── kernel/
+│   ├── kernel.c          # Main kernel logic
+│   ├── scheduler.c       # Simple task scheduler
+│   └── tasks.c           # Demo tasks
+├── build/
+│   └── linker.ld         # Linker script
+├── Makefile
+└── README.md
