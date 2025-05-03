@@ -1,0 +1,2 @@
+make        # builds everything
+make run    # runs it in QEMU
